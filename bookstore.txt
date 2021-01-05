@@ -1,0 +1,8 @@
+title: Everyday Italian
+author: Giada De Laurentiis
+title: Harry Potter
+author: J K. Rowling
+title: XQuery Kick Start
+author: James McGovern
+title: Learning XML
+author: Erik T. Ray
